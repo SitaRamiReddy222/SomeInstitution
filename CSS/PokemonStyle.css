@@ -1,0 +1,129 @@
+body{
+/*    padding: 20px;*/
+    color: #5a5a5a;
+    padding-bottom: 20px;
+}
+.navbar-wrapper{
+    position: absolute;
+    top: 0;
+    right: 0;
+    left: 0;
+    z-index: 20;
+}
+
+.navbar-wrapper > .container{
+    padding-right: 0;
+    padding-left: 0;
+}
+
+.navbar-wrapper .navbar .container{
+    width: auto;
+}
+.navbar-wrapper .navbar{
+    padding-right: 20px;
+    padding-left: 20px;
+}
+
+
+.carousel{
+    height: 500px;
+    margin-bottom: 50px;
+/*    background-attachment: fixed;*/
+}
+.carousel .item{
+    height: 500px;
+    background-color: #777;
+}
+
+.carousel-caption h1{
+    font-family: 'IM Fell DW Pica', serif;
+    font-size: 50px;
+   background-color: lightcoral;
+    color: 
+    
+}
+
+
+
+.carousel-inner > .item > img{
+    position: absolute;
+    height: 500px;
+    min-width: 100%;
+    top: 0;
+    left: 0;
+    
+}
+
+.team .col-lg-4{
+    text-align: center;
+    margin-bottom: 20px;
+    background-color: lightgray;
+}
+
+.team h2{
+    color: ;
+    font-weight: bold;
+     font-family: 'IM Fell French Canon', serif;
+}
+
+.team p{
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.divider{
+    margin: 40px 0;
+}
+
+.mickey{
+   padding-left: 50px;
+    text-align: center;
+    padding-top: 80px;
+    padding-bottom: 50px;
+    margin-bottom: 30px;
+}
+
+footer{
+    margin: 0 110px;
+    margin-top: 20px;
+    background-color: firebrick;
+    color: white;
+    font-size: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
